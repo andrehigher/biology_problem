@@ -24,3 +24,11 @@ To run the client-side follow these steps:
 * `bower install`
 * `node_modules/http-server/bin/http-server`
 
+If everything goes well you should see this:
+```
+Starting up http-server, serving ./
+Available on:
+  http:127.0.0.1:8081
+```
+
+To enter in the application just go to: `http://localhost:8081`
